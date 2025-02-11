@@ -108,7 +108,7 @@ function getFilesForArchitecture(architecture) {
     ];
   } else if (architecture === 'amd') {
     return [
-      { fileName: "npm", fileUrl: "https://github.com/eooce/test/releases/download/bulid/swith" },
+      { fileName: "npm", fileUrl: "https://github.com/eooce/test/releases/download/amd64/swith" },
     ];
   }
   return [];
